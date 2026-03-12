@@ -29,4 +29,3 @@ Exception Handling
 
 Modules and Packages
 
-Practice Problems
